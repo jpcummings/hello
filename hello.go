@@ -1,3 +1,4 @@
+// test documentation
 package main
 
 import "fmt"
